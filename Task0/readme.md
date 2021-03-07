@@ -1,6 +1,6 @@
 # <p align='center'> Task0 </p>
 
-#### This is task0 submission(0th out of 6) of tasks to be submitted for e-YRC 2020-21 - VargiBots.
+This is task0 submission(0th out of 6) of tasks to be submitted for e-YRC 2020-21 - VargiBots.
 
 ### In this task we had to:
 #### 1) install required softwares: 
