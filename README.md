@@ -30,7 +30,7 @@ Their GitHub Repo for the same is:
 <p align='center'> https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx </p>
 
 
-## To run the simulation in your simulation environment for different tasks follow these steps:
+## To run the simulation in your local environment follow these steps:
 
 1) install requirements as listed in Task0/readme.md
 
