@@ -42,7 +42,8 @@ Their GitHub Repo for the same is:
     git clone https://github.com/hi-18-K/warehouse_simulation.git
 
 4) run following commands:
-  i) catkin build
-  ii) source devel/setup.bash
-  iii) roslaunch pkg_task4 task4_solution.launch
-       (where pkg_task4 can be replaced by name of any package which contains launch-file to run and task4_solution.launch can be replaced by name of launch file required to be executed)
+  - catkin build
+  - source devel/setup.bash
+  - roslaunch pkg_task4 task4_solution.launch
+    
+    (where pkg_task4 can be replaced by name of any package which contains launch-file to run and task4_solution.launch can be replaced by name of launch file required to be executed)
