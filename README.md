@@ -38,6 +38,7 @@ Their GitHub Repo for the same is:
     (path of current directory should be like: home/catkin_ws/src)
     
 3) clone this repository at this location by using following command:
+    
     git clone https://github.com/hi-18-K/warehouse_simulation.git
 
 4) run following commands:
