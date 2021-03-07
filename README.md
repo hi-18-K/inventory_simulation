@@ -16,7 +16,7 @@ Their GitHub Repo for the same is:
 
 
 #### <p align='center'>  We have used: </p>
-1) Concepts of Basic ROS 
+1) Concepts of ROS 
 2) Concepts of IoT - Network Protocols - sending and recieving data via HTTP and MQTT with python
 3) MoveIt motion planning (which is an open source motion planning framework for Robotic Simulation).
 4) TF (for converting co-ordinates from one frame of reference to another - at later stages did this manually too)
