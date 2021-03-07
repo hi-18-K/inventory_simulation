@@ -1,0 +1,43 @@
+!!python/object/new:moveit_msgs.msg._RobotTrajectory.RobotTrajectory {state: [!!python/object/new:trajectory_msgs.msg._JointTrajectory.JointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, world]}, [ur5_shoulder_pan_joint, ur5_shoulder_lift_joint,
+          ur5_elbow_joint, ur5_wrist_1_joint, ur5_wrist_2_joint, ur5_wrist_3_joint],
+        [!!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13687172011120108, -2.094457203532711, -1.0176213236653124,
+                -1.5834227422216438, 1.5700791616665315, 0.13788492821423137], !!python/tuple [
+                0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [0.00032621324947819277,
+                0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [], !!python/object/new:genpy.rostime.Duration {
+                state: [0, 0]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13690014706006867, -2.181406137298308, -1.0176099226828306,
+                -1.5005269210954963, 1.5700558892379863, 0.1378499750302949], !!python/tuple [
+                0.00011657674470122277, -0.3565709320704013, 4.6754557807891484e-05,
+                0.33994942690587643, -9.543845080678564e-05, -0.00014334033593394914],
+              !!python/tuple [0.0003288749821324118, -1.0059232586579563, 0.00013189941444228577,
+                0.9590322837211724, -0.00026924168181458464, -0.000404377824581998],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 417473895]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13692857400893627, -2.2683550710639047, -1.0175985217003487,
+                -1.4176310999693489, 1.5700326168094412, 0.1378150218463584], !!python/tuple [
+                0.0001652139431170153, -0.505336547518245, 6.626111300201798e-05,
+                0.48178035356371374, -0.0001352565026862561, -0.0002031436215520381],
+              !!python/tuple [1.7808929800008158e-06, -0.005447181349000193, 7.142493391583921e-07,
+                0.005193261736409811, -1.457972327887319e-06, -2.1897488949058036e-06],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 589695044]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.1369570009578039, -2.355304004829502, -1.017587120717867,
+                -1.3347352788432016, 1.5700093443808958, 0.13778006866242193], !!python/tuple [
+                0.00011632063370858365, -0.35578757055501936, 4.6651841298519596e-05,
+                0.3392025816802474, -9.522877917487377e-05, -0.00014302542719441512],
+              !!python/tuple [-0.0003300262067114043, 1.009444486000623, -0.00013236112741715317,
+                -0.9623893695334954, 0.0002701841604460313, 0.0004057933463332123],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 761597070]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13698542790667148, -2.442252938595099, -1.0175757197353852,
+                -1.2518394577170542, 1.5699860719523506, 0.13774511547848545], !!python/tuple [
+                0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [-0.0003184166022004372,
+                0.9739344234074258, -0.00012770495069774042, -0.9285346036448355,
+                0.0002606796690288051, 0.00039151841856052943], !!python/tuple [],
+              !!python/object/new:genpy.rostime.Duration {state: [1, 184151121]}]}]]},
+    !!python/object/new:trajectory_msgs.msg._MultiDOFJointTrajectory.MultiDOFJointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, '']}, [], []]}]}

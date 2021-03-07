@@ -1,0 +1,59 @@
+!!python/object/new:moveit_msgs.msg._RobotTrajectory.RobotTrajectory {state: [!!python/object/new:trajectory_msgs.msg._JointTrajectory.JointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, world]}, [ur5_shoulder_pan_joint, ur5_shoulder_lift_joint,
+          ur5_elbow_joint, ur5_wrist_1_joint, ur5_wrist_2_joint, ur5_wrist_3_joint],
+        [!!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13691936154684026, -2.0944634751194178, -1.0176155848758173,
+                -1.5834435335721366, 1.5699214528347953, 0.13785893188487375], !!python/tuple [
+                0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [-9.424184132071726e-05,
+                0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [], !!python/object/new:genpy.rostime.Duration {
+                state: [0, 0]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13690313641235366, -2.0944503285074525, -0.8489196600538974,
+                -1.5834512413858757, 1.5699263294612178, 0.13784373356061833], !!python/tuple [
+                -4.7207426436114316e-05, 3.825038971151862e-05, 0.49082492768684804,
+                -2.2426072977658657e-05, 1.4188664093010431e-05, -4.421989690322324e-05],
+              !!python/tuple [-9.427167361763935e-05, 7.638476669567062e-05, 0.9801611924097389,
+                -4.478412808909732e-05, 2.8334294229202827e-05, -8.830567567357329e-05],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 586796168]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13688691127786703, -2.094437181895487, -0.6802237352319775,
+                -1.5834589491996147, 1.5699312060876403, 0.13782853523636293], !!python/tuple [
+                -7.66207939536768e-05, 6.208292741189097e-05, 0.7966415136511154,
+                -3.639900851484621e-05, 2.3029145836792366e-05, -7.177183475280409e-05],
+              !!python/tuple [-9.154957196371733e-05, 7.417915082277184e-05, 0.9518589643936313,
+                -4.349098302837093e-05, 2.7516139361642993e-05, -8.575584265977707e-05],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 829816636]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13687068614338044, -2.094424035283522, -0.5115278104100576,
+                -1.5834666570133538, 1.569936082714063, 0.1378133369121075], !!python/tuple [
+                -8.647711070791818e-05, 7.006912758068745e-05, 0.8991195838068768,
+                -4.1081290424922706e-05, 2.5991560401171915e-05, -8.100439292485792e-05],
+              !!python/tuple [-5.056280886613839e-19, 4.3339550456690045e-19, 1.7751879867060242e-15,
+                -2.1669775228345023e-19, -6.30749370829848e-15, -4.3339550456690045e-19],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  1, 17440093]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13685446100889384, -2.0944108886715567, -0.3428318855881377,
+                -1.5834743648270928, 1.5699409593404854, 0.1377981385878521], !!python/tuple [
+                -7.66207939536768e-05, 6.208292741189097e-05, 0.7966415136511151,
+                -3.6399008514846206e-05, 2.3029145836200632e-05, -7.177183475280409e-05],
+              !!python/tuple [9.154957196371818e-05, -7.417915082277259e-05, -0.9518589643936352,
+                4.349098302837132e-05, -2.7516139356147013e-05, 8.57558426597778e-05],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  1, 205063550]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13683823587440722, -2.0943977420595914, -0.17413596076621773,
+                -1.5834820726408319, 1.5699458359669078, 0.1377829402635967], !!python/tuple [
+                -4.7361077587476126e-05, 3.837488742009787e-05, 0.49242246902620324,
+                -2.24990655594129e-05, 1.423484548307477e-05, -4.43638242168948e-05],
+              !!python/tuple [9.426370252552261e-05, -7.637830802162305e-05, -0.9800783153921138,
+                4.478034139054021e-05, -2.8331898437754993e-05, 8.829820903329196e-05],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  1, 448084018]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [0.13682201073992062, -2.094384595447626, -0.005440035944297971,
+                -1.583489780454571, 1.5699507125933303, 0.13776774193934127], !!python/tuple [
+                0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [9.634826243546685e-05,
+                -7.806734796645017e-05, -1.001751896106776, 4.577061974719357e-05,
+                -2.8958433764520873e-05, 9.025084723644985e-05], !!python/tuple [],
+              !!python/object/new:genpy.rostime.Duration {state: [2, 28430301]}]}]]},
+    !!python/object/new:trajectory_msgs.msg._MultiDOFJointTrajectory.MultiDOFJointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, '']}, [], []]}]}
