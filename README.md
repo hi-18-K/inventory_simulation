@@ -28,3 +28,20 @@ Their GitHub Repo for the same is:
 
 ### <p align='center'> YouTube Playlist of submissions: </p>
 <p align='center'> https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx </p>
+
+
+## To run the simulation in your simulation environment for different tasks follow these steps:
+
+1) install requirements as listed in Task0/readme.md
+
+2) open a terminal and cd to src folder of catkin workspace
+    (path of current directory should be like: home/catkin_ws/src)
+    
+3) clone this repository at this location by using following command:
+    git clone https://github.com/hi-18-K/warehouse_simulation.git
+
+4) run following commands:
+  i) catkin build
+  ii) source devel/setup.bash
+  iii) roslaunch pkg_task4 task4_solution.launch
+       (where pkg_task4 can be replaced by name of any package which contains launch-file to run and task4_solution.launch can be replaced by name of launch file required to be executed)
