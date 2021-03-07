@@ -26,5 +26,5 @@ Their GitHub Repo for the same is:
 
 
 
-### <p align='center'> YouTube Playlist of all the submissions: </p>
+### <p align='center'> YouTube Playlist of submissions: </p>
 <p align='center'> https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx </p>
