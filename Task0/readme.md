@@ -66,7 +66,7 @@ Install additional tools -
 
 ----------------
 
-(Having doubt? Wanna know more? you can contact me: 
+Having doubt? Wanna know more? you can contact me: 
 
 <p align='center'>  
 <a href="https://www.linkedin.com/in/khushiagarwal/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
