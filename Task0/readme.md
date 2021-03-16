@@ -13,9 +13,10 @@ This is task0 submission(0th out of 0-6) of tasks to be submitted for e-YRC 2020
 #### 4) Move turtle inside the turtlesim window in a circle and stop at its initial location - using concepts of ROS Node.
 #### 5) Screen record the output(how turtle is moving in turtlesim), record bagfiles and submit it.
 
+--------------
 
 
-### To run Upcoming tasks in your environment:
+## <p align='center'> To run Upcoming tasks in your environment: </p>
 
 #### 1) Install ubuntu (18.04) - or latest Ubuntu version
 #### 2) Install ROS Melodic by following given steps:
