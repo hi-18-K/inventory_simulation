@@ -64,3 +64,6 @@ Install additional tools -
 #### 9) Run 'source devel/setup.bash' (make sure your path is <path_to_catkin_ws>/catkin_ws/~)
 #### 10) Run 'roslaunch <pkg_name> <launch_file_name>'
 
+
+
+(Having doubt? Wanna know more? you can contact me: [https://www.linkedin.com/in/khushiagarwal/](LinkedIn)
