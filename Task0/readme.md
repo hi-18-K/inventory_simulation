@@ -7,7 +7,7 @@ This is task0 submission(0th out of 0-6) of tasks to be submitted for e-YRC 2020
 - Ubuntu 18.04
 - ROS Melodic
 - Gazebo
-- e-Yantra App (Android)
+
 #### 2) Set-up piazza account for further queries, doubts and other communication
 #### 3) Get started with learning ROS
 #### 4) Move turtle inside the turtlesim window in a circle and stop at its initial location - using concepts of ROS Node.
