@@ -1,12 +1,18 @@
-# warehouse_simulation
-This is WareHouse simulation, we created in e-Yantra Robotics Competition. This project consists of simulation of two robotic arms UR5_1 and UR5_2 in warehouse environment. 
+# warehouse_simulation: Vargi Bots(e-YRC 2020-21) - )
+This is WareHouse simulation, we created in e-Yantra Robotics Competition. This project consists of simulation of two robotic arms UR5_1, UR5_2 along with conveyor belt in warehouse environment. We simulate working of robotic arms according to predefined set of rules. 
 
 ### <p align='center'> TeamID: VB#2109 </p>
 
-##### Environment configurations were provided by e-Yantra Team (IIT Bombay) themselves. We were to understand those to fit our motion planning and trajectory files appropriately. 
+#### Environment configurations were provided by e-YRC Team. 
 Their GitHub Repo for the same is:
 
 <p align='center'>  https://github.com/e-yantra-r3/vb_simulation_pkgs </p>
+
+#### Out task: 
+1) To understand and work on the simulation in Gazebo.
+2) Create and use trajectory files to perform reqired movement of the robotics arm.
+3) Use problem solving skills to prioritise orders for maximum score.
+4) Reduce overall simulation time. 
 
 
 
