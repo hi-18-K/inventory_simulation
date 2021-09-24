@@ -1,4 +1,4 @@
-# warehouse_simulation: Vargi Bots(e-YRC 2020-21) - )
+# warehouse_simulation: Vargi Bots(e-YRC 2020-21)
 This is WareHouse simulation, we created in e-Yantra Robotics Competition. This project consists of simulation of two robotic arms UR5_1, UR5_2 along with conveyor belt in warehouse environment. We simulate working of robotic arms according to predefined set of rules. 
 
 ### <p align='center'> TeamID: VB#2109 </p>
