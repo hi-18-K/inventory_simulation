@@ -3,10 +3,8 @@ This is WareHouse simulation, we created in e-Yantra Robotics Competition. This 
 
 ### <p align='center'> TeamID: VB#2109 </p>
 
-#### Environment configurations were provided by e-YRC Team. 
-Their GitHub Repo for the same is:
-
-<p align='center'>  https://github.com/e-yantra-r3/vb_simulation_pkgs </p>
+#### Environment configurations were provided by e-YRC Team. Github: 
+##### https://github.com/e-yantra-r3/vb_simulation_pkgs 
 
 #### Out task: 
 1) To understand and work on the simulation in Gazebo.
@@ -28,7 +26,7 @@ Their GitHub Repo for the same is:
 
 
 ### YouTube Playlist of submissions:
-<p align='center'> https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx </p>
+https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx 
 
 
 ### To run the simulation in your local environment follow these steps: 
