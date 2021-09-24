@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
 """
-	Team ID: VB#1823
-	Theme : Vargi Bots
-
 	This node is used to,
 	* Push shiped details to IMS(send goal to action server).
 	* Ship the Orders based on their color.
