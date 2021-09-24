@@ -1,13 +1,5 @@
 #!/usr/bin/env python
 
-"""
-	Team ID: VB#1823
-	Theme : Vargi Bots
-
-	This node uses 2D camera facing the shelf to extract the QR code data,
-	and store it in parameter server so that other nodes can use that info.
-"""
-
 import rospy
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge, CvBridgeError
