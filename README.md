@@ -16,7 +16,7 @@ Their GitHub Repo for the same is:
 
 
 
-#### <p align='center'>  We have used: </p>
+#### We have used:
 1) Concepts of ROS 
 2) Concepts of IoT - Network Protocols - sending and recieving data via HTTP and MQTT with python
 3) MoveIt motion planning (which is an open source motion planning framework for Robotic Simulation).
@@ -27,11 +27,11 @@ Their GitHub Repo for the same is:
 
 
 
-### <p align='center'> YouTube Playlist of submissions: </p>
+### YouTube Playlist of submissions:
 <p align='center'> https://www.youtube.com/playlist?list=PLb4kh-jYhf9Fkk-73hKoJjhy-sX4AsMBx </p>
 
 
-### <p align='center'> To run the simulation in your local environment follow these steps: </p>
+### To run the simulation in your local environment follow these steps: 
 
 1) install requirements as listed in Task0/readme.md
 
