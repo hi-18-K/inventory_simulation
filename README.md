@@ -2,11 +2,6 @@
 This is WareHouse simulation, we created in e-Yantra Robotics Competition. This project consists of simulation of two robotic arms UR5_1 and UR5_2 in warehouse environment. 
 
 ### <p align='center'> TeamID: VB#2109 </p>
-### <p align='center'> Participants: </p>
-<p align='center'> Kunal Sagar </p>
-<p align='center'> Khushi Agarwal </p>
-<p align='center'> Hitesh Bhadauria</p>
-<p align='center'> Unnati Gupta </p>
 
 ##### Environment configurations were provided by e-Yantra Team (IIT Bombay) themselves. We were to understand those to fit our motion planning and trajectory files appropriately. 
 Their GitHub Repo for the same is:
